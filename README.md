@@ -1,6 +1,6 @@
 # MDN - HTML
 # 目录
-[开始学习 HTML ](/README.md#开始学习 HTML)
+
 
 ## [开始学习 HTML ](https://developer.mozilla.org/zh-CN/docs/Learn/HTML/Introduction_to_HTML/Getting_started)
 **重点：块级元素和内联元素**
